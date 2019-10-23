@@ -12,6 +12,6 @@ $ pkg update && pkg upgrade<br>
 $ pkg install python<br>
 $ pip install requests<br>
 $ pkg install git<br>
-$ git clone https://github.com/kuhakus/C-SpamMasal<br>
+$ git clone https://github.com/kuhakus/spamtelp
 $ cd C-SpamMasal<br>
 $ python callmas.py<br>
